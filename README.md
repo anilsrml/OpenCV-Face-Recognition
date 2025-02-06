@@ -14,6 +14,11 @@ Başlamadan önce, aşağıdaki Python kütüphanelerinin yüklü olduğundan em
 
 Gerekli kütüphaneleri pip ile yükleyebilirsiniz:
 
+
+![Ekran görüntüsü 2025-02-06 134657](https://github.com/user-attachments/assets/16eb2f0d-5be1-446b-83e3-b3d98af608ab)
+
+
+
 ```bash
 pip install opencv-python face_recognition numpy
 
@@ -22,7 +27,6 @@ proje_dizini/
 ├── face_recognition.py  # Yüz tanıma için Python betiği
 ├── person_images/       # Eğitim için kişilerin resimlerinin bulunduğu klasör
 ├── encodings.pkl        # Yüz verilerinin kaydedileceği dosya
+'''
 
-
-![Ekran görüntüsü 2025-02-06 134657](https://github.com/user-attachments/assets/16eb2f0d-5be1-446b-83e3-b3d98af608ab)
 
