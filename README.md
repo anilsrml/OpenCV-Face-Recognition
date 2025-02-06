@@ -1,6 +1,6 @@
 # Python İle Yüz Tanıma
 
-Bu proje, OpenCV ve `face_recognition` kütüphanesini kullanarak basit bir yüz tanıma sistemi gösterir. Sistem, bir video akışından tanınan yüzleri algılar ve ekranda tanınan kişilerin adlarını görüntüler.
+Bu proje, OpenCV ve `face_recognition` kütüphanesini kullanarak basit bir yüz tanıma sistemi gösterir. Sistem, person_images klasöründeki yüzleri encoding işlemi ile işler ve video akışında bu tanınan yüzleri algılar. Ardından ekranda tanınan kişilerin adlarını görüntüler.
 
 ## Gereksinimler
 
