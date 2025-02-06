@@ -23,3 +23,6 @@ proje_dizini/
 ├── person_images/       # Eğitim için kişilerin resimlerinin bulunduğu klasör
 ├── encodings.pkl        # Yüz verilerinin kaydedileceği dosya
 
+
+![Ekran görüntüsü 2025-02-06 134657](https://github.com/user-attachments/assets/16eb2f0d-5be1-446b-83e3-b3d98af608ab)
+
