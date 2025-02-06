@@ -15,7 +15,7 @@ Başlamadan önce, aşağıdaki Python kütüphanelerinin yüklü olduğundan em
 Gerekli kütüphaneleri pip ile yükleyebilirsiniz:
 
 
-![Ekran görüntüsü 2025-02-06 134657](https://github.com/user-attachments/assets/16eb2f0d-5be1-446b-83e3-b3d98af608ab) ![Ekran görüntüsü 2025-02-06 135022](https://github.com/user-attachments/assets/acd93488-fb40-4105-a1e2-b7a8e4f719f8)
+![Ekran görüntüsü 2025-02-06 135022](https://github.com/user-attachments/assets/acd93488-fb40-4105-a1e2-b7a8e4f719f8)
 
 
 
